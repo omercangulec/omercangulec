@@ -13,7 +13,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://www.memedroid.com/memes/detail/2454124" width="512px"/>
+<img src="https://images7.memedroid.com/images/UPLOADED759/5b66a230c099a.jpeg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=omercangulec&icon=0&color=0)](https://visitcount.itsvg.in)
