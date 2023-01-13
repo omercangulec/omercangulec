@@ -3,9 +3,9 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.icons8.com/fluency/48/null/instagram-new.png)](https://instagram.com/omercangulec) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omercangulec) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/omercangulec5) 
+[![Instagram](https://img.icons8.com/fluency/48/null/instagram-new.png)](https://instagram.com/omercangulec) [![LinkedIn](https://img.icons8.com/fluency/48/null/linkedin.png)](https://linkedin.com/in/omercangulec) [![Twitter](https://img.icons8.com/color/48/null/twitter--v1.png)](https://twitter.com/omercangulec5) 
 
-<img src="https://img.icons8.com/fluency/48/null/instagram-new.png"/>
+
 
 # 💻 Tech Stack:
 <img src="https://img.icons8.com/fluency/96/null/swift.png"/> <img src="https://img.icons8.com/fluency/96/null/swiftui.png"/>
