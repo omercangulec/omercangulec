@@ -8,7 +8,7 @@
 
 
 # 💻 Tech Stack:
-<img src="https://img.icons8.com/fluency/96/null/swift.png"/> <img src="https://img.icons8.com/fluency/96/null/swiftui.png"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/null/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-color-tal-revivo.png"/> <img src="https://img.icons8.com/color/96/null/css3.png"/> <img src="https://img.icons8.com/color/96/null/javascript--v1.png"/>
+<img src="https://img.icons8.com/fluency/96/null/swift.png"/> <img src="https://img.icons8.com/fluency/96/null/swiftui.png"/> <img src="https://img.icons8.com/color/96/null/javascript--v1.png"/>
 
 
 ### ✍️ Random Dev Quote
