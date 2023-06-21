@@ -11,7 +11,7 @@
 <!--
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width = 80px height = 80px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width = 80px height = 80px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width = 80px height = 80px />
 -->
-<img width="96" height="96" src="https://img.icons8.com/color/96/html-5--v1.png" alt="html-5--v1"/> <img width="96" height="96" src="https://img.icons8.com/color/96/css3.png" alt="css3"/> <img width="96" height="96" src="https://img.icons8.com/color/96/javascript--v1.png" alt="javascript--v1"/> <img width="78" height="78" src="https://img.icons8.com/fluency/78/canva.png" alt="canva"/>
+<img width="78" height="78" src="https://img.icons8.com/color/78/html-5--v1.png" alt="html-5--v1"/> <img width="78" height="78" src="https://img.icons8.com/color/78/css3.png" alt="css3"/> <img width="78" height="78" src="https://img.icons8.com/color/78/javascript--v1.png" alt="javascript--v1"/> 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
