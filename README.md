@@ -8,7 +8,7 @@
 
 
 # 💻 Tech Stack:
-<img src="https://img.icons8.com/fluency/96/null/html-5.png"/> <img src="https://img.icons8.com/fluency/96/null/css3.png"/> <img src="https://img.icons8.com/color/96/null/javascript--v1.png"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img src="https://img.icons8.com/fluency/96/null/css3.png"/> <img src="https://img.icons8.com/color/96/null/javascript--v1.png"/>
 
 
 ### ✍️ Random Dev Quote
