@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.icons8.com/fluency/48/null/instagram-new.png)](https://instagram.com/omercangulec) [![LinkedIn](https://img.icons8.com/fluency/48/null/linkedin.png)](https://linkedin.com/in/omercangulec) [![Twitter](https://img.icons8.com/color/48/null/twitter--v1.png)](https://twitter.com/omercangulec5) [![Codepen](https://img.icons8.com/external-tal-revivo-regular-tal-revivo/48/000000/external-multi-platform-online-code-editor-and-open-source-learning-service-logo-regular-tal-revivo.png)](https://codepen.io/omercangulec/pens/) 
+[![Instagram](https://img.icons8.com/fluency/48/null/instagram-new.png)](https://instagram.com/omercangulec) [![LinkedIn](https://img.icons8.com/fluency/48/null/linkedin.png)](https://linkedin.com/in/omercangulec) [![Twitter](https://img.icons8.com/color/48/null/twitter--v1.png)](https://twitter.com/omercangulec5) [![Codepen](https://img.icons8.com/ios/48/codepen.png)](https://codepen.io/omercangulec/pens/) 
 
 
 
