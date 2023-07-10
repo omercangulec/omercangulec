@@ -13,7 +13,7 @@
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/omercangulec/pens/)&nbsp;
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <!--
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width = 80px height = 80px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width = 80px height = 80px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width = 80px height = 80px />
 <img width="78" height="78" src="https://img.icons8.com/color/78/html-5--v1.png" alt="html-5--v1"/> <img width="78" height="78" src="https://img.icons8.com/color/78/css3.png" alt="css3"/> <img width="78" height="78" src="https://img.icons8.com/color/78/javascript--v1.png" alt="javascript--v1"/> 
