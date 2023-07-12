@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Hi, my name is Ömer. <br>💻 I'm a Front-end Developer.<br>
+👨‍💻 Hi, my name is Ömer. <br>💻 I'm an iOS Developer.<br>
 
 
 ## 🌐 Socials:
