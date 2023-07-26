@@ -22,7 +22,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 -->
 #### Main Skills:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="72px" height="72px" /> <img width="100" height="100" src="https://img.icons8.com/fluency/100/swiftui.png" alt="swiftui"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="72px" height="72px" /> <img width="72px" height="72px" src="https://img.icons8.com/fluency/72/swiftui.png" alt="swiftui"/>
           
 
 #### Side Skills:
