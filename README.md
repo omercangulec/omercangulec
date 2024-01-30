@@ -1,6 +1,7 @@
 # 💫 About Me:
-👨‍💻 Hi, my name is Ömer. <!--<br>💻 I'm a Front-end Developer.<br>-->
-
+- 👋🏻 Hi, my name is Ömer.
+- 👨‍💻 Frontend Developer.
+- 🌱 I’m currently learning TypeScript and Next.js
 
 ## 🌐 Socials:
 
@@ -48,32 +49,10 @@
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;
 -->
 
-          
-          
-
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=omercangulec&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=omercangulec&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=omercangulec&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=omercangulec&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**omercangulec/omercangulec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
