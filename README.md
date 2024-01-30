@@ -5,10 +5,9 @@
 ## 🌐 Socials:
 
 <div align="center">
-  [![Instagram](https://img.icons8.com/fluency/48/null/instagram-new.png)](https://instagram.com/omercangulec) [![LinkedIn](https://img.icons8.com/fluency/48/null/linkedin.png)](https://linkedin.com/in/omercangulec) [![Twitter](https://img.icons8.com/color/48/null/twitter--v1.png)](https://twitter.com/omercangulec5)
-  <img src="https://img.icons8.com/fluency/48/null/instagram-new.png" height="35" width="35" alt="html5 logo"  />
-  <img src="https://img.icons8.com/fluency/48/null/linkedin.png" height="35" width="35" alt="css3 logo"  />
-  <img src="https://img.icons8.com/ios/48/twitterx--v1.png" height="35" width="35" alt="javascript logo"  />
+  <img src="https://img.icons8.com/fluency/48/null/instagram-new.png" height="45" width="45" alt="insta logo"  />
+  <img src="https://img.icons8.com/fluency/48/null/linkedin.png" height="45" width="45" alt="linkedin logo"  />
+  <img src="https://img.icons8.com/color/48/null/twitter--v1.png" height="45" width="45" alt="twitter logo"  />
 </div>
 
 <!--
@@ -20,17 +19,17 @@
 
 ## 💻 Tech Stack:
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" width="35" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" width="35" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" width="35" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" width="35" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" width="35" alt="react logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="35" width="35" alt="react logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35" width="35" alt="vue logo"  /> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" width="35" alt="bootstrap logo"  /> 
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="35" width="35" />
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" width="30"/> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" height="35" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" width="45" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" width="45" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="45" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" width="45" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" width="45" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="45" width="45" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="45" width="45" alt="vue logo"  /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" width="45" alt="bootstrap logo"  /> 
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="45" width="45" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" height="45" width="45"/>
 </div>
 <!--
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
