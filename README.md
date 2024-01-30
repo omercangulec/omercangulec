@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 👋🏻 Hi, my name is Ömer.
-- 👨‍💻 Frontend Developer.
-- 🌱 I’m currently learning TypeScript and Next.js
+- 👨‍💻 I'm a Frontend Developer.
+- 🌱 I’m currently learning TypeScript and Next.js.
 
 ## 🌐 Socials:
 
@@ -25,7 +25,7 @@
 
 
 ## 💻 Tech Stack:
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" width="45" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" width="45" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" width="45" alt="javascript logo"  />
