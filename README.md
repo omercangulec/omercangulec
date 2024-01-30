@@ -4,8 +4,9 @@
 
 ## 🌐 Socials:
 
-
+<div align="center">
 [![Instagram](https://img.icons8.com/fluency/48/null/instagram-new.png)](https://instagram.com/omercangulec) [![LinkedIn](https://img.icons8.com/fluency/48/null/linkedin.png)](https://linkedin.com/in/omercangulec) [![Twitter](https://img.icons8.com/color/48/null/twitter--v1.png)](https://twitter.com/omercangulec5)
+</div>
 
 <!--
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/omercangulec)&nbsp;
