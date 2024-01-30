@@ -4,10 +4,16 @@
 
 ## 🌐 Socials:
 
-<div align="center">
-  <img src="https://img.icons8.com/fluency/48/null/instagram-new.png" height="45" width="45" alt="insta logo"  />
-  <img src="https://img.icons8.com/fluency/48/null/linkedin.png" height="45" width="45" alt="linkedin logo"  />
-  <img src="https://img.icons8.com/color/48/null/twitter--v1.png" height="45" width="45" alt="twitter logo"  />
+<div align="left">
+  <a href="https://www.instagram.com/omercangulec/">
+    <img src="https://img.icons8.com/fluency/48/null/instagram-new.png" height="45" width="45" alt="insta logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/omercangulec/">
+    <img src="https://img.icons8.com/fluency/48/null/linkedin.png" height="45" width="45" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/omercangulec5">
+    <img src="https://img.icons8.com/color/48/null/twitter--v1.png" height="45" width="45" alt="twitter logo"  />
+  </a>
 </div>
 
 <!--
