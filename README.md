@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Hey%2C%20I%27m%20%C3%96mer&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Developer&descAlignY=58&descSize=18" alt="header" width="100%" />
 
 <a href="https://github.com/omercangulec">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+%C3%96mer+%F0%9F%91%8B;Frontend+Developer;Building+clean+%26+fast+web+interfaces;Currently+learning+TypeScript+%26+Next.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+%C3%96mer+%F0%9F%91%8B;Frontend+Developer;Building+clean+%26+fast+web+interfaces;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Pixel-perfect%2C+responsive+%26+accessible+UIs" alt="Typing SVG" />
 </a>
 
 <p>
@@ -18,22 +18,33 @@
 
 ## 💫 About Me
 
+I'm a **Frontend Developer** who enjoys turning designs into fast, responsive and pixel-perfect interfaces. I care about clean component architecture, smooth user experience and code that's easy for the next developer to read.
+
+- 🧩 Building scalable UIs with **React**, **Next.js** and **Vue**
+- 🔷 Writing type-safe code with **TypeScript**
+- 🎨 Styling with **Tailwind CSS** and modern CSS — mobile-first, always
+- 🔄 Managing app state with **Redux**
+- 🤝 Working closely with designers to bring Figma files to life
+- ⚡ Obsessed with performance, accessibility and small UI details
+
 ```ts
 const omer = {
   role: "Frontend Developer",
-  focus: ["React", "Vue", "Modern CSS"],
-  currentlyLearning: ["TypeScript", "Next.js"],
-  loves: "turning designs into pixel-perfect, responsive UIs",
+  stack: ["TypeScript", "React", "Next.js", "Vue", "Tailwind CSS"],
+  principles: ["clean code", "reusable components", "great UX"],
+  workflow: "Figma → components → production",
+  motto: "Ship it clean, ship it fast.",
 };
 ```
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,vue,nextjs,tailwind,bootstrap,git,github,figma&perline=13" alt="Tech stack" />
-  </a>
-</p>
+| | |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,html,css" alt="Languages" /> |
+| **Frameworks & Libraries** | <img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux" alt="Frameworks" /> |
+| **Styling** | <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass" alt="Styling" /> |
+| **Tools & Design** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools" /> |
 
 ## 📊 GitHub Stats
 
